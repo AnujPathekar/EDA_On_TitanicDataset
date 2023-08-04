@@ -18,3 +18,9 @@ The Titanic dataset is a historical dataset that contains information about pass
 
 
 It offers a glimpse into the demographics and socio-economic backgrounds of the passengers and provides an opportunity to study historical events and draw insights from the tragedy that unfolded during the Titanic's voyage.
+
+# How To Reach Me
+<a href="https://www.linkedin.com/in/anujnishapathekar">
+    <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="LinkedIn Profile" style="max-width: 50px;">
+</a>
+
